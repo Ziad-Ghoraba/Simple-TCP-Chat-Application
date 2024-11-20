@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5RPX81dpPKE=",
+  "success": true,
+  "projectFilePath": "D:\\Programming\\Operating System\\Projects\\Chat Application\\Server\\Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\simpletcp.core\\1.0.4\\simpletcp.core.1.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

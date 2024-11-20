@@ -1,0 +1,17 @@
+D:\Programming\Operating System\Projects\Chat Application\Client\bin\Debug\net8.0\Client.exe
+D:\Programming\Operating System\Projects\Chat Application\Client\bin\Debug\net8.0\Client.deps.json
+D:\Programming\Operating System\Projects\Chat Application\Client\bin\Debug\net8.0\Client.runtimeconfig.json
+D:\Programming\Operating System\Projects\Chat Application\Client\bin\Debug\net8.0\Client.dll
+D:\Programming\Operating System\Projects\Chat Application\Client\bin\Debug\net8.0\Client.pdb
+D:\Programming\Operating System\Projects\Chat Application\Client\bin\Debug\net8.0\SimpleTCP.Core.dll
+D:\Programming\Operating System\Projects\Chat Application\Client\obj\Debug\net8.0\Client.csproj.AssemblyReference.cache
+D:\Programming\Operating System\Projects\Chat Application\Client\obj\Debug\net8.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Operating System\Projects\Chat Application\Client\obj\Debug\net8.0\Client.AssemblyInfoInputs.cache
+D:\Programming\Operating System\Projects\Chat Application\Client\obj\Debug\net8.0\Client.AssemblyInfo.cs
+D:\Programming\Operating System\Projects\Chat Application\Client\obj\Debug\net8.0\Client.csproj.CoreCompileInputs.cache
+D:\Programming\Operating System\Projects\Chat Application\Client\obj\Debug\net8.0\Client.csproj.Up2Date
+D:\Programming\Operating System\Projects\Chat Application\Client\obj\Debug\net8.0\Client.dll
+D:\Programming\Operating System\Projects\Chat Application\Client\obj\Debug\net8.0\refint\Client.dll
+D:\Programming\Operating System\Projects\Chat Application\Client\obj\Debug\net8.0\Client.pdb
+D:\Programming\Operating System\Projects\Chat Application\Client\obj\Debug\net8.0\Client.genruntimeconfig.cache
+D:\Programming\Operating System\Projects\Chat Application\Client\obj\Debug\net8.0\ref\Client.dll
