@@ -26,8 +26,8 @@ A lightweight TCP-based Client-Server Chat Application built with C# to demonstr
 - SimpleTCP Library
 
 
-## Acknowledgments
-This project was created to explain sockets and TCP communication in operating systems. It is intended to be simple and educational, ideal for students and beginners in network programming.
+Author
 
+Created by **Ziad Ghoraba** as part of studying **Operating Systems** concepts to simulate and understand inter-process communication using TCP sockets.
 
 
